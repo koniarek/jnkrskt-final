@@ -67,7 +67,7 @@
   "main": "origin",
   "scripts": {
     "start": "npm run clean && npm run develop",
-    "build-s": "gatsby build",
+    "build": "gatsby build",
     "develop": "gatsby develop",
     "clean": "rm -rf .cache public",
     "serve": "gatsby serve",
