@@ -1,0 +1,33 @@
+.Logo {
+  display: flex;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 4rem;
+  width: 4rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.Logo2 {
+  display: flex;
+  align-items: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 4rem;
+  width: 4rem;
+  justify-content: center;
+}
+
+.Logo3 {
+  display: flex;
+  align-items: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 4rem;
+  width: 4rem;
+  justify-content: center;
+}
+

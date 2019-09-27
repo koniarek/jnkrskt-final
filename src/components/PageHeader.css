@@ -1,0 +1,38 @@
+.PageHeader {
+  background-color: black;
+  color: darkred;
+  padding: 3rem 0;
+}
+
+.PageHeader .BackgroundColor {
+  opacity: 1;
+  background-color: #000000;
+}
+
+.PageHeader-medium {
+  padding: 3rem 0;
+}
+
+.PageHeader--Title {
+  font-size: 0rem;
+  margin-bottom: 0;
+}
+
+.PageHeader--Subtitle {
+  font-weight: normal;
+  font-size: 0rem;
+  color: transparent;
+}
+
+.PageHeader .container {
+  animation: fadeIn 0.5s ease-out;
+}
+
+@media (max-width:30px) {
+  .PageHeader {
+    padding: 3rem 0;
+  }
+  .PageHeader-medium {
+    padding: 1rem 0;
+  }
+}
