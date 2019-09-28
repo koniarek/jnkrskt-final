@@ -4,7 +4,7 @@ title: /My dzieci z dworca zoo wy dzieci z bullerbyn/ prod.Dariusz Kurkiewicz/ (
 
 status: Published
 date: 2019-07-24T14:22:23.511Z
-featuredImage: 'https://ucarecdn.com/da12083b-3613-4c89-8770-f2b08f26173b/'
+featuredImage: 'https://ucarecdn.com/ab43a172-70f9-47d3-93f6-909ac30c79b1/'
 excerpt: >-
   /my-dzieci-z dworca-zoo-wy-dzieci-z-bullerbyn/(official-video)/
 categories:

@@ -3,7 +3,7 @@ template: SinglePost
 title: /Dziś odwiedzam cmentarz rzadziej/(Official video)/
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/82a1310e-932d-466c-8bf8-d47896295d08/'
+featuredImage: 'https://ucarecdn.com/94170b61-4e7f-4bd6-95b3-3e153fee1582/'
 excerpt: /dziś-odwiedzam-cmentarz-rzadziej/(official-video)/
 categories:
   - category: News
