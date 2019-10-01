@@ -17,6 +17,9 @@ const PostCategoriesNav = ({ categories }) => (
         {category.title}
       </Link>
     ))}
+    <NavLink to="https://merchpage.netlify.com/">Merch</NavLink>
+    <NavLink to="https://sektapage.netlify.com">Sekta</NavLink>
+
     <Logo2/>
   </div>
 )
