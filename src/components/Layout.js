@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import { graphql, StaticQuery } from 'gatsby'
@@ -69,7 +70,6 @@ export default ({ children, meta, title }) => {
               {...meta}
               {...data.settingsYaml}
             />
-
 
             <Fragment>{children}</Fragment>
 

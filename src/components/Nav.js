@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import { Menu, X } from 'react-feather'
 import Logo from './Logo'
 import Logo2 from './Logo2'
 import './Nav.css'
@@ -36,18 +35,16 @@ export default class Nav extends Component {
 					</Link>
 					<div className="Nav--Links">
 						<NavLink to="/" exact>
-							junkietosekta.pl
+							News
+						</NavLink>
+						<NavLink href="https://merchpage.netlify.com" exact>
+							Merch
+						</NavLink>
+						<NavLink href="https://sektapage.netlify.com" exact>
+							Sekta
 						</NavLink>
 					</div>
-					<button
-						className="Button-blank Nav--MenuButton"
-						onClick={this.handleMenuToggle}
-					>
-						{active ? <X /> : <Menu />}
-					</button>
-					<Link to="/" onClick={this.handleLinkClick}>
 					<Logo2 />
-				</Link>
 				</div>
 			</nav>
 		)
