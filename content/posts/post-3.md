@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Opiowraki jak voodoo/
-status: Featured / Published
+status: Published
 date: 2019-09-01T22:00:00.000Z
 featuredImage: 'https://ucarecdn.com/05a2654c-abad-4c7a-8026-a6226a405c0e/'
 excerpt: /opiowraki-jak-voodoo/
@@ -14,4 +14,4 @@ meta:
 >  
 >  /Official video/
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/oZt2bIaqzVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oZt2bIaqzVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
