@@ -1,11 +1,10 @@
 ---
 template: SinglePost
-title:  /KARBON/TONCIU/01/LEKI/prod/JACA/TRZECI-KARTON-EP//(Official video)/
+title: /KARBON/TONCIU/01/LEKI/prod/JACA/TRZECI-KARTON-EP//(Official video)/
 status: Published
-date: 2019-07-24T14:22:23.511Z
+date: 2019-09-24T14:22:23.511Z
 featuredImage: 'https://ucarecdn.com/d456ee7b-9e3e-445f-bb9a-23f9fb802177/'
-excerpt: >-
-  /karbon/tonciu/01/leki/
+excerpt: /karbon/tonciu/01/leki/
 categories:
   - category: News
 ---
