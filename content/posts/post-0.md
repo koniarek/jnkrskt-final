@@ -3,7 +3,7 @@ template: SinglePost
 title: /HEPARYNA /(Official video)/
 status: Featured / Published
 date: '2019-02-04'
-featuredImage: 'https://ucarecdn.com/409fcd54-3fa4-4105-8415-c773bd6785ea/'
+featuredImage: 'https://ucarecdn.com/f80e68f9-8ab4-40df-912c-4c5773cd1c67/'
 excerpt: >-
   /heprayna/official-video/
 categories:

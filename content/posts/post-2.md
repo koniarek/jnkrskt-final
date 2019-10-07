@@ -3,8 +3,7 @@ template: SinglePost
 title: /27.04.19/(prod.•K1VX0N•)/(Official video)/
 status: Published
 date: '2019-03-17'
-featuredImage: >-
-  https://ucarecdn.com/2816230c-afff-4efa-9a1b-cdd13da4693c/
+featuredImage: 'https://ucarecdn.com/845ec050-09d4-422a-a4b8-fa16e103c745/'
 excerpt: >-
  /27/04/19/Official-video/
 categories:

@@ -2,9 +2,8 @@
 template: SinglePost
 title: /Strzykawki, igły, pokłute kończyny/Newonce.net/
 status: Published
-date: '2019-05-06'
-featuredImage: >-
-  https://ucarecdn.com/ba1ea344-d5bb-45b9-8a83-f5768883036d/
+date: '2019-07-16'd
+featuredImage: 'https://ucarecdn.com/ba1ea344-d5bb-45b9-8a83-f5768883036d/'
 excerpt: >-
   /strzykawki/newonce.net/
 categories:
