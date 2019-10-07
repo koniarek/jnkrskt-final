@@ -1,14 +1,16 @@
 ---
 template: SinglePost
-title: /HEPARYNA /(Official video)/
-status: Featured / Published
-date: 2019-08-31T22:00:00.000Z
+title: /HEPARYNA/
+status: Published
+date: 2019-08-24T22:00:00.000Z
 featuredImage: 'https://ucarecdn.com/f80e68f9-8ab4-40df-912c-4c5773cd1c67/'
 excerpt: /heprayna/official-video/
 categories:
   - category: News
 meta:
+  canonicalLink: /heprayna/official-video/
   description: Official video
+  noindex: false
   title: HEPARYNA
 ---
   /Official video/
