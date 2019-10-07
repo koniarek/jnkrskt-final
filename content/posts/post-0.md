@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: 1/HEPARYNA/
+title: /HEPARYNA/
 status: Published
 date: 2019-01-14T23:00:00.000Z
 featuredImage: 'https://ucarecdn.com/f80e68f9-8ab4-40df-912c-4c5773cd1c67/'
