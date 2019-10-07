@@ -1,12 +1,12 @@
 ---
 template: SinglePost
-title: /My dzieci z dworca zoo wy dzieci z bullerbyn/ prod.Dariusz Kurkiewicz/ (Official video) /
-
+title: >-
+  /My dzieci z dworca zoo wy dzieci z bullerbyn/ prod.Dariusz Kurkiewicz/
+  (Official video) /
 status: Published
-date: 2019-07-24T14:22:23.511Z
+date: 2019-09-25T14:22:23.511Z
 featuredImage: 'https://ucarecdn.com/ab43a172-70f9-47d3-93f6-909ac30c79b1/'
-excerpt: >-
-  /my-dzieci-z dworca-zoo-wy-dzieci-z-bullerbyn/(official-video)/
+excerpt: /my-dzieci-z dworca-zoo-wy-dzieci-z-bullerbyn/(official-video)/
 categories:
   - category: News
 ---
