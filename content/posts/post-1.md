@@ -2,7 +2,7 @@
 template: SinglePost
 title: '3/27.04.19 /Poznań, Rozbrat/'
 status: Published
-date: 2019-04-28T22:00:00.000Z
+date: 2019-04-24T22:00:00.000Z
 featuredImage: 'https://ucarecdn.com/ba1ea344-d5bb-45b9-8a83-f5768883036d/'
 excerpt: /27/04/19/rozbrat/
 categories:
