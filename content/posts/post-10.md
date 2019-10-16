@@ -2,7 +2,7 @@
 template: SinglePost
 title: TNC/My dzieci z dworca zoo wy dzieci z bullerbyn/ prod.Dariusz Kurkiewicz/
 status: Published
-date: 2019-09-23T22:00:00.000Z
+date: 2019-09-29T22:00:00.000Z
 featuredImage: 'https://ucarecdn.com/ab43a172-70f9-47d3-93f6-909ac30c79b1/'
 excerpt: /my-dzieci-z dworca-zoo-wy-dzieci-z-bullerbyn/(official-video)/
 categories:
