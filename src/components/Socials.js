@@ -23,13 +23,6 @@ export default function Socials() {
 		<SocialLink href="https://www.facebook.com/tonciujunkietosekta/" target="blank" rel="noopener noreferrer">
 			<FaFacebookSquare/>
 		</SocialLink>
-		<SocialLink href="https://www.facebook.com/junkietosektapl/" target="blank" rel="noopener noreferrer">
-			<FaFacebookSquare/>
-		</SocialLink>
-		<SocialLink href="https://www.facebook.com/tonciujunkierap/" target="blank" rel="noopener noreferrer">
-			<FaFacebookSquare/>
-		</SocialLink>
-
 		<SocialLink href="https://www.youtube.com/channel/UC3EOoqNeN30lu00ExULB5uA" target="blank"
 		            rel="noopener noreferrer">
 			<FaYoutubeSquare/>

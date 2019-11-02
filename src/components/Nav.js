@@ -41,7 +41,7 @@ export default class Nav extends Component {
 							Merch
 						</NavLink>
 						<NavLink href="https://sektapage.netlify.com" exact>
-							Sekta
+							Jntskt
 						</NavLink>
 					</div>
 					<Logo2 />

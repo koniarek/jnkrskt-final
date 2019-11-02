@@ -9,10 +9,10 @@ const PostCategoriesNav = ({}) => <div className="PostCategoriesNav">
   <Logo/>
   <Link
     className="NavLink"
-    to='post-categories/news'>News
+    to='post-categories/news'>NEWS
   </Link>
-    <a href='https://merchpage.netlify.com'>Merch</a>
-    <a href='https://sektapage.netlify.com'>Sekta</a>
+    <a href='https://merchpage.netlify.com'>MERCH</a>
+    <a href='https://sektapage.netlify.com'>JNKTSKT</a>
   <Logo2/>
 </div>
 
