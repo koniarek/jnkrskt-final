@@ -12,7 +12,7 @@ meta:
   title: /28/09/2019/
 ---
   
-Drugi koncert TNC w jego rodzinnym mieúcie.
+Drugi koncert TNC w jego rodzinnym mieście.
 Na bramce jak zwykle maski i zapalniczki, kawałek dalej ubranka.
 Wejście za dziabą nie działa, bo to nie my organizujemy. 
 Ale wbijaj. Gramy pierwsi, 'supporty' po nas.
