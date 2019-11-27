@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: 15/11/19 Warszawa Galeria Śmierć frajerom
+title: 15/11/19/ Warszawa / Galeria Śmierć frajerom/
 status: Published
 date: 2019-11-26T17:25:44.933Z
 featuredImage: 'https://ucarecdn.com/1454af4e-c998-453d-b9b0-d78da0806507/'
