@@ -1,11 +1,11 @@
 ---
 template: BlogIndex
 slug: ''
-title: junkietosekta.pl
+title: jnktskt.pl
 featuredImage: 'https://ucarecdn.com/839915f8-1e74-41b8-b060-adb719e94722/'
-subtitle: junkitetosekta.pl
+subtitle: jnktskt.pl
 meta:
   description: ''
-  title: Junkietosekta.pl
+  title: jnktskt.pl
 ---
  tnc x junkierap x jnkwr
