@@ -3,7 +3,7 @@ template: SinglePost
 title: 14/12/19/ Poznań / Kołorking Muzyczny/
 status: Published
 date: 2019-12-05
-featuredImage: 'https://ucarecdn.com/1454af4e-c998-453d-b9b0-d78da0806507/'
+featuredImage: 'https://ucarecdn.com/d6f166ee-e247-4a3b-8bee-577d0e7cfc30/'
 excerpt: 14/12/2019/kolorking-muzyczny/poznan
 categories:
   - category: News
