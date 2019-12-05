@@ -1,20 +1,16 @@
 ---
 template: SinglePost
-title: 15/11/19/ Warszawa / Galeria Śmierć frajerom/
+title: 14/12/19/ Poznań / Kołorking Muzyczny/
 status: Published
-date: 2019-11-26T17:25:44.933Z
-featuredImage: 'https://ucarecdn.com/1454af4e-c998-453d-b9b0-d78da0806507/'
-excerpt: 15/11/2019/galeria-smierc-frajerom/warszawa
+date: 2019-12-06T10:25:44.933Z
+featuredImage: 'https://ucarecdn.com/fbd731e4-60c5-438d-ac32-f45a07f38cab/'
+excerpt: 14/12/2019/kolorking-muzyczny/poznan
 categories:
   - category: News
 ---
-Kolejny koncert TNC, tym razem Warszawie. TNC wystąpi razem min z raprem Kozą.
-
-
+Kolejny koncert TNC, w Poznaniu 14-12-19, lokal Kołorking Muzyczny.
 
 Na bramce jak zwykle maski i zapalniczki, merch prawdopodobnie też.
-
-
 
 
 
